@@ -22,4 +22,5 @@ It supports basic arithmetic operations with a clean UI and keyboard support.
 ---
 
 ## 📂 Project Structure
-<img width="1918" height="1078" alt="modern-simple-calc" src="https://github.com/user-attachments/assets/cbc7771f-d623-48d1-bf55-8ae4600f88af" />
+<img width="1918" height="1027" alt="modern-simple-calc" src="https://github.com/user-attachments/assets/de61a8ba-fdc2-4a5b-971e-c316cf5c21d0" />
+
